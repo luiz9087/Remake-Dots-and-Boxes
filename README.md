@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luiz Barbosa
 
-Me chamo Luiz Barbosa, tenho 17 anos e sou natural de Belém do Pará e atualemente estou cursando o curso de informática pelo CEFET-MG. 
+Me chamo Luiz Barbosa, tenho 17 anos e sou natural de Belém do Pará e atualmente estou cursando o curso de informática pelo CEFET-MG. 
 
 ### 🤖 Linguagens e Tecnologias
 
