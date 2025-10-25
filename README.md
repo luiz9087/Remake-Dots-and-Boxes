@@ -26,7 +26,7 @@ Me chamo Luiz Barbosa, tenho 17 anos e sou natural de Belém do Pará e atualmen
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cmmprogressivo.net%2F2019%2F07%2FLinguagem-Cpp-O-que-e-Para-que-serve-Como-funciona-Onde-usa.html&psig=AOvVaw3kCWclEkZr5NfxmoRnmivP&ust=1761499376065000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiXq7_uv5ADFQAAAAAdAAAAABAE)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 <img 
     align="left" 
